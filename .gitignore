@@ -42,8 +42,12 @@ vignettes/*.pdf
 # pkgdown site
 docs/
 
+# pkgdown site
+docs/
+
 # translation temp files
 po/*~
 
 # RStudio Connect folder
 rsconnect/
+docs
